@@ -1,19 +1,20 @@
-﻿# Taller 3 costos - Stiven Jaime
-Roles: Stiven - Dev jornales, Tabla verificacion 744 + (18x4x18.50) = 2076
+# Taller 3 costos - Stiven Jaime
+
+## Roles - Grupo #4
+- Stiven Jaime Cedeño - Dev Jornales / Corrección 18 jornales = 2076.0 - stivenjaime7
+- Marlon Acuña Montero - Dev Lógica Lote / Polimorfismo - marlonacunamontero-cloud
+- Melany Chang Ayala - Dev Documentación / README - melanychayala-sys
+- Wilmer Peña Naranjo - Dev Pruebas JUnit / Build Success
+- Karen Zuñiga Murillo - Dev Diagrama Clases / Estrategias
+
 ## Descripción
-Sistema en Java para cálculo de costos agrícolas (Banano, Cacao, Arroz). Refactoring de instanceof a polimorfismo.
+Sistema en Java para cálculo de costos agrícolas (Banano, Cacao, Arroz). Refactorización de instanceof a polimorfismo.
 
 ## Evidencias
 ### Código Correcto (18 jornales Banano) - Página 10 PDF
-- Directo: 744.0
-- Mano de obra: 2076.0
-- Por Ha: 519.0
-- Total: 2820.0
-
-### Figura 9 - Experimento Rama No Tomada (10 jornales)
-Experimento con return 10 para evidenciar subestimación de 592.0. El costo de insumos permanece en 744.0 ocultando el error.
-
-## PDF
-[Agregar link del PDF del grupo aquí]
+- Directos: 700
+- Mano de obra: 2076 (744 + 18x4x18.50)
+- Por actividad: 150
+- Total lote: 2926.0
 
 Fuente: Elaboración propia - Grupo Taller 3
