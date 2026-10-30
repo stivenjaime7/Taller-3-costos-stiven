@@ -7,7 +7,7 @@ public record Lote(String codigo, Cultivo cultivo, double hectareas, List<Insumo
         return total;
     }
     public int jornalesPorHectarea() {
-        if (cultivo instanceof Banano) { return 10; }
+        if (cultivo instanceof Banano) { return 18; }
         if (cultivo instanceof Cacao) {
             Cacao c = (Cacao) cultivo;
             if (c.tipo().toLowerCase().contains("organico")) { return 25; } else { return 20; }
