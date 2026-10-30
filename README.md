@@ -5,7 +5,7 @@
 - Marlon Acuña Montero - Dev Lógica Lote / Polimorfismo - marlonacunamontero-cloud
 - Melany Chang Ayala - Dev Documentación / README - melanychayala-sys
 - Wilmer Peña Naranjo - Dev Pruebas JUnit / Build Success
-- Karen Zuñiga Murillo - Dev Diagrama Clases / Estrategias
+- Karen Zuñiga Murillo - Diagrama de clases - diagrama.png
 
 ## Descripción
 Sistema en Java para cálculo de costos agrícolas (Banano, Cacao, Arroz). Refactorización de instanceof a polimorfismo.
