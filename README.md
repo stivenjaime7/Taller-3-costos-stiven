@@ -2,7 +2,7 @@
 
 ## Roles - Grupo #4
 - Stiven Jaime Cedeño - Dev Jornales / Corrección 18 jornales = 2076.0 - stivenjaime7
-- Marlon Acuña Montero - Dev Lógica Lote / Polimorfismo - marlonacunamontero-cloud
+- Marlon Acuña Montero - Dev Lógica Lote / Polimorfismo. - marlonacunamontero-cloud
 - Melany Chang Ayala - Dev Documentación / README - melanychayala-sys
 - Wilmer Peña Naranjo - Dev Pruebas JUnit / Build Success
 - Karen Zuñiga Murillo - Diagrama de clases - diagrama.png
