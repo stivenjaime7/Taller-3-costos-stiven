@@ -18,3 +18,4 @@ Sistema en Java para cálculo de costos agrícolas (Banano, Cacao, Arroz). Refac
 - Total lote: 2926.0
 
 Fuente: Elaboración propia - Grupo 4 Taller 3
+Actualización PR #1-flujo colaborativo
